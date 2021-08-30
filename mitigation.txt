@@ -1,0 +1,13 @@
+Mitigation Checklist:
+1.Educate stakeholders and train Employees.
+2.Ask your employees and partners to sign a non-disclosure agreement.
+3.Identify All Critical Data and Develop Strategies for Protecting Them
+4.Identify All Endpoint Devices, Hardware and Structure Connected to Your Network.
+5.Develop, Set, and Enforce Security Policies.
+6.Implement strict data encryption procedures and authentication policies
+7.Monitor User Activities Regularly
+8.Require Employees to Use VPNs When Connecting via External Networks
+9.Avoid saving unnecessary data.
+10.Use anomaly detection.
+11.Automate as much as possible.
+12.Harden your systems.
